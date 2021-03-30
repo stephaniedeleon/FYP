@@ -1,6 +1,8 @@
 # FYP (For Your Productivity) For LAHacks2021
 Student wellness has been greatly impacted with COVID-19. It has become more difficult to be productive and find time in our day to do basic things like drink water or workout. As students ourselves, we find that the most distracting thing is our phone. The time that would usually be used to walk across campus or to get food is now wasted browsing through social media, watching videos, and playing mobile games. Our app aims to solve these problems by banning distracting apps and rewarding students with screen time if they have been productive or completed wellness activities like drinking water and being active. 
 
+Dev Post: https://devpost.com/software/fyp-for-your-productivity
+
 ## What it does
 Our app, FYP - For Your Productivity, is an app designed to promote student wellness and productivity. Below are the features:
 
